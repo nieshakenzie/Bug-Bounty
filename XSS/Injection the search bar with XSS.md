@@ -6,7 +6,7 @@ This bug could have allowed hackers to Open Redirection, Website Defacement and 
 
 ## PoC
 
-<img src="https://user-images.githubusercontent.com/67650329/211984395-59ac2452-cb68-49a2-9e1f-afe2d7ee4569.jpg" width="500px" align="center">
+<img src="https://user-images.githubusercontent.com/67650329/211989145-8f0b08a9-a6e7-415a-867e-8bc758664764.png" width="500px" align="center">
 
 ## How I Found The Bug
 
