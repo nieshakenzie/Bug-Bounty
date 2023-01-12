@@ -15,7 +15,7 @@ This bug could have allowed hackers to Open Redirection, Website Defacement and 
 3. And i got the one of subdomain to exploit with XSS on the search bar.
 4. I use this script to exploit and worked for me.
 ```
-"><script>alert(document.domain)</script>
+"><script>alert(*)</script>
 ```
 
 👋 Thank You
